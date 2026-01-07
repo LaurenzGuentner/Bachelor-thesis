@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/laurenzguntner/Code/Python_Projects/Bachelorarbeit_Code/media/videos/Bachelorarbeit_Code/720p30/partial_movie_files/EigenvalueAnimation/2016333726_1564706400_1106812148.mp4'
+file 'file:/Users/laurenzguntner/Code/Python_Projects/Bachelorarbeit_Code/media/videos/Bachelorarbeit_Code/720p30/partial_movie_files/EigenvalueAnimation/543634251_2688965532_3376846620.mp4'
